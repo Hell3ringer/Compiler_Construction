@@ -5,7 +5,9 @@ A compiler made in c
 ``` 
 cd Compiler_Construction\test
 ```
-> input file = 1in.txt , lexer output file = 1lexerout.txt , parser output file = 1out.txt
+> input file = 1in.txt    
+> lexer output file = 1out-lexer.txt  
+> parser output = console  
 
 
 ## run
