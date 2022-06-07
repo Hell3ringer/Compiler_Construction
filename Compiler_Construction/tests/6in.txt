@@ -1,0 +1,21 @@
+int func1(int a1){
+  a1 := a1 * 3;
+  return a1;
+}
+
+int func2(int a1, boolean b1){
+  b1 := func1(a1);
+  return b1;
+}
+
+float func3(){
+  return a2;
+}
+
+main(){
+  int a2;
+  in(b1);
+  a2 := func2(a2, b3);
+  a2 := func3();
+  out(a2);
+}

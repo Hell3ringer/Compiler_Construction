@@ -1,0 +1,19 @@
+int randomFunction(int abcd, boolean boo){
+  if(abcd>2+abcd)
+    {abcd := 3 + 2;};
+  boo := boo or false;
+  while(boo == true){};
+  return abcd;
+}
+
+main(){
+  int c1;
+  c1 := randomFunction();
+  x := 5, x;
+  n1 := and + or;
+  d4 := 5;
+  out(d4);
+  ?/
+  a23 := 4;
+  3 := a;
+}

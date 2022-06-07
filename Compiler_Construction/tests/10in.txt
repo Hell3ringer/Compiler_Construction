@@ -1,0 +1,14 @@
+main()
+{
+    int a, b
+    in(a);
+    in(b);
+    if(a > b)
+    {
+        out(a);
+    };
+    if(b > a)
+    {
+        out(b);
+    };
+}

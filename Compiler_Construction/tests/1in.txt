@@ -1,0 +1,20 @@
+//indented using tabs
+int fact(int n1) {
+	:=
+	if (n1 < 2) {
+		return 1;
+	};
+		return n1*fact(n1-1);
+}
+
+main() 
+{
+	int x;
+  x := 1;								//used spaces here instead of tab
+
+	while (x < 11) {  
+		out(x);
+		out(fact(x)) ;   
+		x := x + 1;
+	};
+}

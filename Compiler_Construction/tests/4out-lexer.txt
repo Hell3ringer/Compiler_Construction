@@ -1,0 +1,17 @@
+Token 201, string "main", line number 2
+Token 131, string "{", line number 2
+Token 200, string "x", line number 3
+Token 120, string ":=", line number 3
+Token 102, string "5", line number 3
+Token 135, string ",", line number 3
+Token 200, string "x", line number 3
+Token 500, string ";", line number 3
+Token 200, string "x", line number 4
+Token 120, string ":=", line number 4
+Token 102, string "6.99", line number 4
+Token 102, string "90", line number 5
+Token 200, string "x", line number 7
+Token 124, string ">", line number 7
+Token 102, string "7", line number 7
+Token 500, string ";", line number 7
+Token 132, string "}", line number 9

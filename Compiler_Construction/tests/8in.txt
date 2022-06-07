@@ -1,0 +1,15 @@
+main()
+{
+    int a1, float b1;
+    in(a1);
+    in(b1);
+    int sum;
+    int mul;
+    int orr;
+    sum := a1 + b1;
+    mul := a1 * b1;
+    orr := a1 or b1;
+    out(sum);
+    out(mul);
+    out(orr);
+}
